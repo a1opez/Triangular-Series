@@ -1,7 +1,7 @@
 Triangular-Series
 =================
 
-This JQuery script calaculates a triangular series in hexadecimal representation, it stops when it has reached a string of
+This JQuery script calculates a triangular series in hexadecimal representation, it stops when it has reached a string of
 at least 9 characters for which all of the elements are letters
 The series starts like this
 
